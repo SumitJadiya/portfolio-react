@@ -16,7 +16,7 @@ class Portfolio extends Component {
                   <p>{projects.category}</p>
                 </div>
               </div>
-              <div className="link-icon"><i className="fa fa-link"></i></div>
+              <div className="link-icon"><i className="fa fa-plane"></i></div>
             </a>
           </div>
         </div>
@@ -25,13 +25,9 @@ class Portfolio extends Component {
 
     return (
       <section id="portfolio">
-
         <div className="row">
-
           <div className="twelve columns collapsed">
-
             <h1>Check Out Some of My Works.</h1>
-
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
               {projects}
             </div>

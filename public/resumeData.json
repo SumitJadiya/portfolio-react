@@ -47,7 +47,7 @@
         "school": "BIT Durg",
         "degree": "Bachelors of Engineering in Computer Science",
         "graduated": "May'16",
-        "description": "Graduated with good grades"
+        "description": "Graduated in Computer Science with good grades. Learned about Web dev, Databases, Computer Hardware, Operating Systems, Data Structures etc during my collage days."
       }
     ],
     "work": [
@@ -108,7 +108,7 @@
         "url": "https://clone-36782.web.app/"
       },
       {
-        "title": "PWA - Weather App",
+        "title": "PWA - Weather App using React",
         "category": "Progressive Web App using React",
         "image": "pwa_weather_app.png",
         "url": "https://stj-app.netlify.app/"
@@ -120,13 +120,13 @@
         "url": "https://stj-expense-tracker.netlify.app/"
       },
       {
-        "title": "Spotify Clone",
+        "title": "Spotify Clone App using React",
         "category": "Spotify Clone built with ReactJS",
         "image": "spotify_clone_app.png",
         "url": "https://spotify-clone-stj.netlify.app/"
       },
       {
-        "title": "Netflix Clone",
+        "title": "Netflix Clone App using React",
         "category": "Netflix Clone built with ReactJS",
         "image": "netflix-clone.jpeg",
         "url": "#"
