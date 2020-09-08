@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name": "Sumit Jadiya",
+    "occupation": "Software Engineer employed by Appdirect ",
+    "description": "I deal with awesome web apps using awesome technologies",
+    "image": "stj.jpeg",
+    "bio": "My name is Sumit Jadiya, I'm a Full Stack ReactJS Developer. Currently I'm working at Appdirect India",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "jadiyaskj@gmail.com",
+    "phone": "+91 9039 469 157",
+    "address": {
+      "street": "Magarpatta City",
+      "city": "Pune",
+      "state": "MH",
+      "zip": "411013"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/Stj11bitd/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/stj11bitd/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/stj11bitd/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sumitjadiya",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "More details on my skills",
+    "education": [
+      {
+        "school": "BIT Durg",
+        "degree": "Bachelors of Engineering in Computer Science",
+        "graduated": "May'16",
+        "description": "Graduated with good grades"
+      }
+    ],
+    "work": [
+      {
+        "company": "Appdirect India",
+        "title": "Software Engineer",
+        "years": "Aug'19 - Present",
+        "description": "Working on marketplace core team for multiple clients across the globe."
+      },
+      {
+        "company": "Amdocs DVCI",
+        "title": "Software Engineer",
+        "years": "Jan'17 - July'19",
+        "description": "Developed automation tools to enhance productivity in manual work."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "JS",
+        "level": "82%"
+      },
+      {
+        "name": "CSS",
+        "level": "78%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5",
+        "level": "81%"
+      },
+      {
+        "name": "Database",
+        "level": "70%"
+      },
+      {
+        "name": "AWS",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone using React",
+        "category": "Amazon clone build with React (hooks and context API) and Firebase",
+        "image": "amazon-clone-react.png",
+        "url": "https://clone-36782.web.app/"
+      },
+      {
+        "title": "PWA - Weather App",
+        "category": "Progressive Web App using React",
+        "image": "pwa_weather_app.png",
+        "url": "https://stj-app.netlify.app/"
+      },
+      {
+        "title": "Expense Tracker with React",
+        "category": "Expense Tracker App built with ReactJS",
+        "image": "expense_tracker_app.png",
+        "url": "https://stj-expense-tracker.netlify.app/"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
