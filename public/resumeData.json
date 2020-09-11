@@ -15,7 +15,7 @@
       "zip": "411013"
     },
     "website": "http://www.stjapps.in",
-    "resumedownload": "https://drive.google.com/file/d/1k8B85ENFUTFsvinkp9CJVCg9sW19POyf/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1W7k7vWSqfVx3dxpfMiQvzajCEQSSuLIP/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -67,15 +67,15 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "85%"
+        "level": "81%"
       },
       {
         "name": "JS",
-        "level": "82%"
+        "level": "78%"
       },
       {
         "name": "CSS",
-        "level": "78%"
+        "level": "73%"
       },
       {
         "name": "Git",
@@ -103,7 +103,7 @@
     "projects": [
       {
         "title": "Amazon Clone using React",
-        "category": "Amazon clone build with React (hooks and context API) and Firebase",
+        "category": "Amazon clone(includes payment gateway) build with React and Firebase",
         "image": "amazon-clone-react.png",
         "url": "https://clone-36782.web.app/"
       },
