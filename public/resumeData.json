@@ -66,36 +66,40 @@
     ],
     "skills": [
       {
+        "name": "JS",
+        "level": "90%"
+      },
+      {
         "name": "ReactJs",
         "level": "81%"
       },
       {
-        "name": "JS",
-        "level": "78%"
-      },
-      {
-        "name": "CSS",
-        "level": "73%"
-      },
-      {
-        "name": "Git",
-        "level": "80%"
+        "name": "NodeJs",
+        "level": "72%"
       },
       {
         "name": "Java",
-        "level": "75%"
+        "level": "77%"
+      },
+      {
+        "name": "AWS",
+        "level": "60%"
       },
       {
         "name": "HTML5",
         "level": "81%"
       },
       {
+        "name": "CSS",
+        "level": "73%"
+      },
+      {
         "name": "Database",
         "level": "70%"
       },
       {
-        "name": "AWS",
-        "level": "60%"
+        "name": "Git",
+        "level": "80%"
       }
     ]
   },
@@ -106,6 +110,12 @@
         "category": "Amazon clone(includes payment gateway) build with React and Firebase",
         "image": "amazon-clone-react.png",
         "url": "https://clone-36782.web.app/"
+      },
+      {
+        "title": "URL Shortener App using React and Node",
+        "category": "App using MERN stack",
+        "image": "url_shortener.png",
+        "url": "https://github.com/SumitJadiya/URL_shortner_react_FE"
       },
       {
         "title": "PWA - Weather App using React",
@@ -136,8 +146,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "He is always ready to take new challanges, Its really exiting to work with him.",
-        "user": "Shubham Malviya"
+        "text": "It's been great to work with Sumit. He is well organized and work in planned manner which gives his work a sense of responsibility and perfection. Good luck !",
+        "user": "Rupa Kumari (AWS Certified Cloud Practitioner | Software Analyst | Principal Financials Group)"
       }
     ]
   }
