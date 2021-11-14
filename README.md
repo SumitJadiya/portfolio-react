@@ -1,6 +1,6 @@
 ## Description
 
-This is my ReactJS based personal resume website [Live website URL : https://stj-portfolio.netlify.app/]
+This is my ReactJS based personal resume website : [Live website URL : https://stj-portfolio.netlify.app/]
 
 <img src="website.png">
 
