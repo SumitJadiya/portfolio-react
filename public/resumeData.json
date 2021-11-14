@@ -1,13 +1,13 @@
 {
   "main": {
     "name": "Sumit Jadiya",
-    "occupation": "Software Engineer employed by Appdirect ",
+    "occupation": "Senior Software Engineer @ Turtlemint ",
     "description": "I deal with awesome web apps using awesome technologies",
     "image": "stj.jpeg",
-    "bio": "My name is Sumit Jadiya, I'm a Full Stack ReactJS Developer. Currently I'm working at Appdirect India",
+    "bio": "My name is Sumit Jadiya, I'm a Full Stack ReactJS Developer. Currently I'm working as Senior Software Engineer @ Turtlemint.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "jadiyaskj@gmail.com",
-    "phone": "+91 9039 469 157",
+    "phone": "+91 9039-469-157",
     "address": {
       "street": "Magarpatta City",
       "city": "Pune",
@@ -15,7 +15,7 @@
       "zip": "411013"
     },
     "website": "http://www.stjapps.in",
-    "resumedownload": "https://drive.google.com/file/d/1VBJ-Dj3yYc66_VMj_6JXjxGyeiH5ngzV/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/10DifF9SljuG-bhJ47f9IVFBT_VNCbJCA/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -52,16 +52,22 @@
     ],
     "work": [
       {
-        "company": "Appdirect India",
+        "company": "Turtlemint",
+        "title": "Senior Software Engineer",
+        "years": "Nov'21 - Present",
+        "description": "Working on turtleone app to develop and document standard APIs for open source platforms."
+      },
+      {
+        "company": "Appdirect",
         "title": "Software Engineer",
-        "years": "Aug'19 - Present",
-        "description": "Working on marketplace core team for multiple clients across the globe."
+        "years": "Aug'19 - Oct'21",
+        "description": "Responsible for launching new features, enhancements and handling blocker issues. Development of core modules that involve major business functionalities to align with the client’s expectations will provide the foundation for other modules of the system."
       },
       {
         "company": "Amdocs DVCI",
         "title": "Software Engineer",
         "years": "Jan'17 - July'19",
-        "description": "Developed automation tools to enhance productivity in manual work."
+        "description": "Developed automation tools to enhance productivity in manual work. Worked in OneApp Android App developed for a client (PLDT) from Onsite Location (Manila). Successfully Led multiple development projects which reduced a lot of manual work."
       }
     ],
     "skills": [
@@ -75,7 +81,7 @@
       },
       {
         "name": "NodeJs",
-        "level": "72%"
+        "level": "82%"
       },
       {
         "name": "Java",
@@ -90,7 +96,7 @@
         "level": "81%"
       },
       {
-        "name": "CSS",
+        "name": "Advanced CSS",
         "level": "73%"
       },
       {
