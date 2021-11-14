@@ -146,8 +146,16 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "It's been great to work with Sumit. He is well organized and work in planned manner which gives his work a sense of responsibility and perfection. Good luck !",
-        "user": "Rupa Kumari (AWS Certified Cloud Practitioner | Software Analyst | Principal Financials Group)"
+        "text": "It's been great to work with Sumit. \n He is well organized and work in planned manner which gives his work a sense of responsibility and perfection. \n Good luck !",
+        "user": "Rupa Kumari (AWS Certified Cloud Practitioner, Software Analyst @ Principal Financials Group)"
+      },
+      {
+        "text": "Me and Sumit worked for approximately 2 years. \n He is self motivated person and always focus on not only problem solving, but also finding problems. \n He has been also a good mentor to junior folks in team and help them quicker on boarding. \n Condensing his abilities to embrace the challenge irrespective or the technology stack known or unknown. \nHe is a superb backend engineer along with some good to have front end technologies knowledge as ReactJS. \nGiven an opportunity, I will always to work with Sumit again.",
+        "user": "Mukesh Pal (Software Development Manager @ Appdirect)"
+      },
+      {
+        "text": "I've had the chance to work with Sumit for 2 years as a part of my AppDirect journey. \nHe is a very skilled developer, in no time he developed in-depth domain knowledge for Marketplace core functionality working closely with the core team. \n He has a very positive attitude towards work, sound knowledge of programming and possess good coding skills. He also participated in Hackathon 2 years in a row and won as well showing great intensity and innovation. \n Also as a person he is very friendly, approachable and always ready to help junior folks in the team.",
+        "user": "Khushboo Asthana (Software Engineer @ Appdirect)"
       }
     ]
   }
