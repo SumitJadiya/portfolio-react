@@ -1,12 +1,12 @@
 {
   "main": {
     "name": "Sumit Jadiya",
-    "occupation": "Senior Software Engineer @ Turtlemint ",
+    "occupation": "Lead Engineer @ Turtlemint ",
     "description": "I deal with awesome web apps using awesome technologies",
     "image": "stj.jpeg",
-    "bio": "My name is Sumit Jadiya, I'm a Full Stack ReactJS Developer. Currently I'm working as Senior Software Engineer @ Turtlemint.",
+    "bio": "My name is Sumit Jadiya, I'm a Backend Developer. Currently I'm working as Lead Engineer @ Turtlemint.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "jadiyaskj@gmail.com",
+    "email": "jadiyaskj@gmail.com || me@sumitjadiya.com",
     "phone": "+91 9039-469-157",
     "address": {
       "street": "Magarpatta City",
